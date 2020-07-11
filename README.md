@@ -1,2 +1,2 @@
-# UdtaPatola progammed using pygame, or you can say it SpaceInvader game.
+# Space Invader game written in python language.
 All require files regarding to this project are uploded(images and sound files).
